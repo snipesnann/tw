@@ -1,0 +1,1215 @@
+#EXTM3U
+#EXTINF:-1,Радио DFM
+http://dfm.hostingradio.ru/dfm96.aacp
+#EXTINF:-1,Радио DFM (10)
+http://radio2.mmip.ru:8000/radio-dfm
+#EXTINF:-1,Радио DFM (11)
+http://node0.craftradio.ru:8000/stream_dfm
+#EXTINF:-1,Радио DFM (12)
+http://net37.ru:8000/dfm_net37ru.mp3
+#EXTINF:-1,Радио DFM (128)
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1,Радио DFM (13)
+http://89.108.71.155:8000/dfm
+#EXTINF:-1,Радио DFM (14)
+http://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
+#EXTINF:-1,Радио DFM (15)
+http://79.132.121.108:8000/dfmmsksat
+#EXTINF:-1,Радио DFM (16)
+http://control.craftradio.ru:8000/76_6468aac5
+#EXTINF:-1,Радио DFM (17)
+http://control.craftradio.ru:8000/stream_2
+#EXTINF:-1,Радио DFM (18)
+http://control.craftradio.ru:8000/102_9093d394
+#EXTINF:-1,Радио DFM (19)
+http://control.craftradio.ru:8000/100_10b42e20
+#EXTINF:-1,Радио DFM (2)
+http://listen.vdfm.ru:8000/dfm
+#EXTINF:-1,Радио DFM (20)
+http://control.craftradio.ru:8000/101_85730da8
+#EXTINF:-1,Радио DFM (3)
+http://78.30.254.137:8000/radiodfm
+#EXTINF:-1,Радио DFM (32)
+http://dfm.hostingradio.ru/dfm32.aacp
+#EXTINF:-1,Радио DFM (4)
+http://31.31.192.99:8000/dfm-region
+#EXTINF:-1,Радио DFM (5)
+http://radio.kruglikov.info/dfm_96aac
+#EXTINF:-1,Радио DFM (6)
+http://77.39.8.49:8000/dfm_sat_96
+#EXTINF:-1,Радио DFM (7)
+http://176.106.88.195:8010/dfm
+#EXTINF:-1,Радио DFM (8)
+http://78.138.135.12:8000/25-dinamitfm
+#EXTINF:-1,Радио DFM (9)
+http://online2.gkvr.ru:8000/dfm.aac
+#EXTINF:-1,Радио DFM (Анапа)
+http://109.196.197.6:8010/DFM-anapa
+#EXTINF:-1,Радио DFM (Барнаул)
+https://cast.fmprod.ru/dfm_brn
+#EXTINF:-1,Радио DFM (Барнаул) (2)
+http://s0.radioheart.ru:8000/RH79194
+#EXTINF:-1,Радио DFM (Березники)
+http://radioberezniki.ru:8000/beriki
+#EXTINF:-1,Радио DFM (Бийск)
+https://cast.fmprod.ru/dfm_bsk
+#EXTINF:-1,Радио DFM (Брянск)
+http://109.198.192.138:8003/dfm_bryansk
+#EXTINF:-1,Радио DFM (Владивосток)
+http://194.58.122.69:8000/dfmvl
+#EXTINF:-1,Радио DFM (Вологда)
+http://online2.gkvr.ru:8000/dfm_vld_64.aac
+#EXTINF:-1,Радио DFM (Вологда) (2)
+http://online-2.gkvr.ru:8000/dfm11_vld_64.aac
+#EXTINF:-1,Радио DFM (Воркута)
+http://82.145.41.50:23869/stream
+#EXTINF:-1,Радио DFM (Воронеж)
+http://live.borneo.ru:8888/dfm128
+#EXTINF:-1,Радио DFM (Воронеж) (2)
+http://82.146.46.30:8000/dfm
+#EXTINF:-1,Радио DFM (Воткинск)
+http://media.mediatime.ru:8051/di-vtk
+#EXTINF:-1,Радио DFM (Геленджик)
+http://213.59.199.26:8000/DFM-gelendzhik
+#EXTINF:-1,Радио DFM (Глазов)
+http://media.mediatime.ru:8051/di-glazov
+#EXTINF:-1,Радио DFM (Горно-Алтайск)
+https://cast.fmprod.ru/dfm_ga
+#EXTINF:-1,Радио DFM (Гусь-Хрустальный)
+http://31.133.201.78:8080/DFm.mp3
+#EXTINF:-1,Радио DFM (Ижевск)
+http://media.mediatime.ru:8051/Di
+#EXTINF:-1,Радио DFM (Калининград)
+http://87.244.47.90:8000/D-KLGD
+#EXTINF:-1,Радио DFM (Каменск-Уральский)
+http://mg-kompas.ru/k1056
+#EXTINF:-1,Радио DFM (Кашира)
+http://control.craftradio.ru:8000/92_3bd0ee2c
+#EXTINF:-1,Радио DFM (Кемерово)
+http://online-2.gkvr.ru:8000/dfm_kem_64.aac
+#EXTINF:-1,Радио DFM (Кисловодск)
+http://77.39.8.49:8000/dfm_ksl
+#EXTINF:-1,Радио DFM (Коломна)
+http://79.132.121.108:8000/dfmkolomna
+#EXTINF:-1,Радио DFM (Краснодар)
+http://195.128.153.151:8000/dfm_krasnodar_ogg
+#EXTINF:-1,Радио DFM (Краснодар) (2)
+http://195.128.153.151:8000/dfm_krasnodar
+#EXTINF:-1,Радио DFM (Краснодар) (3)
+http://195.128.153.151:8000/dfm_krasnodar_96
+#EXTINF:-1,Радио DFM (Краснодар) (4)
+http://listen1.myradio24.com:9000/dfm106
+#EXTINF:-1,Радио DFM (Краснодар) (5)
+http://195.128.153.151:8000/dfm_studio
+#EXTINF:-1,Радио DFM (Краснодар) (6)
+http://195.128.153.151:8000/dfm_krasnodar_tuner
+#EXTINF:-1,Радио DFM (Краснодар) (7)
+http://87.229.231.162:8000/dfmonline.mp3
+#EXTINF:-1,Радио DFM (Кропоткин)
+http://www.radioregion.tv:8000/dfm-region
+#EXTINF:-1,Радио DFM (Курган)
+http://195.88.63.114:8000/dfm
+#EXTINF:-1,Радио DFM (Мин.Воды)
+http://77.39.8.49:8000/dfm_mnv
+#EXTINF:-1,Радио DFM (Можга)
+http://media.mediatime.ru:8051/dfm-mozhga
+#EXTINF:-1,Радио DFM (Невинномысск)
+http://77.39.8.49:8000/dfm_nev
+#EXTINF:-1,Радио DFM (Нижнекамск)
+http://radio.tatmedia.com:8800/dfm
+#EXTINF:-1,Радио DFM (Нижнекамск) (2)
+https://dfm1075.ru/live
+#EXTINF:-1,Радио DFM (Новокузнецк)
+http://online2.gkvr.ru:8000/dfm_nkz_64.aac
+#EXTINF:-1,Радио DFM (Новосибирск)
+https://sv-veter.fvds.ru/dfm_nsk_high
+#EXTINF:-1,Радио DFM (Новосибирск) (2)
+https://sv-veter.fvds.ru/dfm_nsk_low
+#EXTINF:-1,Радио DFM (Ноябрьск)
+http://control.craftradio.ru:8000/3_b3bee3af
+#EXTINF:-1,Радио DFM (Нурлат)
+http://free.radioheart.ru:8000/df_out
+#EXTINF:-1,Радио DFM (Обнинск)
+http://77.244.74.133:1956/dfm
+#EXTINF:-1,Радио DFM (Октябрьский)
+https://stream.delovaya-volna.ru/radio/DFM_OKTYABRSKIY.MP3
+#EXTINF:-1,Радио DFM (Оренбург)
+http://dotru.trkeurasia.ru:8000/dfm
+#EXTINF:-1,Радио DFM (Орск)
+http://icecast.ural56.cdnvideo.ru:8000/radio_dfmorsk
+#EXTINF:-1,Радио DFM (Павлово)
+http://s0.radioheart.ru:8000/DFM
+#EXTINF:-1,Радио DFM (Пермь)
+http://46.146.243.43:8000/dfm
+#EXTINF:-1,Радио DFM (Псков)
+http://91.237.148.11:5555/dfm
+#EXTINF:-1,Радио DFM (Пятигорск)
+http://77.39.8.49:8000/dfm_ptg
+#EXTINF:-1,Радио DFM (Ростов на-Дону)
+http://online2.gkvr.ru:8000/dfm_rnd_64.aac
+#EXTINF:-1,Радио DFM (Рубцовск)
+http://178.248.87.50:8000/Evropa
+#EXTINF:-1,Радио DFM (Саранск)
+http://dfmsaransk.sv-veter.ru:8090/dfm_saransk
+#EXTINF:-1,Радио DFM (Сарапул)
+http://media.mediatime.ru:8051/di-sarapul
+#EXTINF:-1,Радио DFM (Смоленск)
+http://92.241.103.200:8081/dfm_sm
+#EXTINF:-1,Радио DFM (Спасск-Дальний)
+http://inhold.org:8000/dfm-spassk-air
+#EXTINF:-1,Радио DFM (Ставрополь)
+http://77.39.8.49:8000/dfm_stv
+#EXTINF:-1,Радио DFM (Сызрань)
+http://listen7.myradio24.com:9000/dfmsyzran
+#EXTINF:-1,Радио DFM (Сыктывкар)
+https://cast.severmedia.ru:5443/DiFM_11_01
+#EXTINF:-1,Радио DFM (Тарко-Сале)
+https://mow-1-std.facecast.io:8443/hls_re/dc33b7990ee66d51a5d8.m3u8
+#EXTINF:-1,Радио DFM (Тобольск)
+http://control.craftradio.ru:8000/2_faa91153
+#EXTINF:-1,Радио DFM (Тольятти)
+http://188.120.251.66:8008/tolyatti-dfm
+#EXTINF:-1,Радио DFM (Тольятти) (2)
+http://188.120.251.66:8008/re_63_03
+#EXTINF:-1,Радио DFM (Томск)
+http://listen.radio.tomsk.ru:8000/dfm
+#EXTINF:-1,Радио DFM (Троицк)
+http://87.249.215.166:8000/troitsk.dfm.mp3
+#EXTINF:-1,Радио DFM (Туймазы)
+https://stream.delovaya-volna.ru/radio/DFM_T.MP3
+#EXTINF:-1,Радио DFM (Тюмень)
+http://89.204.58.59:8000/di_72_01
+#EXTINF:-1,Радио DFM (Уссурийск)
+http://inhold.org:8000/dfm-ussuriysk-air
+#EXTINF:-1,Радио DFM (Уссурийск) (2)
+http://31.31.192.99:8000/dfm-ussuriysk
+#EXTINF:-1,Радио DFM (Уфа)
+http://92.50.177.134:8000/dfm_ufa
+#EXTINF:-1,Радио DFM (Челябинск)
+http://stream.volnorez.com:8001/live-app/542130?192
+#EXTINF:-1,Радио DFM (Череповец)
+http://95.182.123.24:8000/dfm875
+#EXTINF:-1,Радио DFM - Afrovibes
+http://dfm.hostingradio.ru/afrovibes96.aacp
+#EXTINF:-1,Радио DFM - Afrovibes (2)
+http://hls-01-dfm.hostingradio.ru/afrovibes/playlist.m3u8
+#EXTINF:-1,Радио DFM - Armin Van Buuren
+http://dfm.hostingradio.ru/avburren96.aacp
+#EXTINF:-1,Радио DFM - Armin Van Buuren (2)
+http://hls-01-dfm.hostingradio.ru/avburren/playlist.m3u8
+#EXTINF:-1,Радио DFM - Avicii
+http://dfm.hostingradio.ru/avicii96.aacp
+#EXTINF:-1,Радио DFM - Avicii (2)
+http://hls-01-dfm.hostingradio.ru/avicii/playlist.m3u8
+#EXTINF:-1,Радио DFM - Bass House
+http://dfm.hostingradio.ru/basshouse96.aacp
+#EXTINF:-1,Радио DFM - Bass House (2)
+http://hls-01-dfm.hostingradio.ru/basshouse/playlist.m3u8
+#EXTINF:-1,Радио DFM - Breakbeat
+http://dfm.hostingradio.ru/breakbeat96.aacp
+#EXTINF:-1,Радио DFM - Breakbeat (2)
+http://hls-01-dfm.hostingradio.ru/breakbeat/playlist.m3u8
+#EXTINF:-1,Радио DFM - Calvin Harris
+http://dfm.hostingradio.ru/harris96.aacp
+#EXTINF:-1,Радио DFM - Calvin Harris (2)
+http://hls-01-dfm.hostingradio.ru/harris/playlist.m3u8
+#EXTINF:-1,Радио DFM - Chill
+http://dfm.hostingradio.ru/dfmchill96.aacp
+#EXTINF:-1,Радио DFM - Chill (2)
+http://hls-01-dfm.hostingradio.ru/dfmchill/playlist.m3u8
+#EXTINF:-1,Радио DFM - Club
+http://dfm.hostingradio.ru/dfmclub96.aacp
+#EXTINF:-1,Радио DFM - Club (2)
+http://hls-01-dfm.hostingradio.ru/dfmclub/playlist.m3u8
+#EXTINF:-1,Радио DFM - Daft Punk
+http://hls-01-dfm.hostingradio.ru/daftpunk/playlist.m3u8
+#EXTINF:-1,Радио DFM - Daft Punk (2)
+http://dfm.hostingradio.ru/daftpunk96.aacp
+#EXTINF:-1,Радио DFM - Dance Gold 1990s
+http://dfm.hostingradio.ru/dancegold9096.aacp
+#EXTINF:-1,Радио DFM - Dance Gold 1990s (2)
+http://hls-01-dfm.hostingradio.ru/dancegold90/playlist.m3u8
+#EXTINF:-1,Радио DFM - Dance Gold 2000s
+http://dfm.hostingradio.ru/dancegold0096.aacp
+#EXTINF:-1,Радио DFM - Dance Gold 2000s (2)
+http://hls-01-dfm.hostingradio.ru/dancegold00/playlist.m3u8
+#EXTINF:-1,Радио DFM - Dance Gold 2010s
+http://dfm.hostingradio.ru/dancegold1096.aacp
+#EXTINF:-1,Радио DFM - Dance Gold 2010s (2)
+http://hls-01-dfm.hostingradio.ru/dancegold10/playlist.m3u8
+#EXTINF:-1,Радио DFM - Dance Gold 2020s
+http://dfm.hostingradio.ru/dancegold2096.aacp
+#EXTINF:-1,Радио DFM - Dance Gold 2020s (2)
+http://hls-01-dfm.hostingradio.ru/dancegold20/playlist.m3u8
+#EXTINF:-1,Радио DFM - Dancehall
+http://dfm.hostingradio.ru/dancehall96.aacp
+#EXTINF:-1,Радио DFM - Dancehall (2)
+http://hls-01-dfm.hostingradio.ru/dancehall/playlist.m3u8
+#EXTINF:-1,Радио DFM - David Guetta
+http://dfm.hostingradio.ru/guetta96.aacp
+#EXTINF:-1,Радио DFM - David Guetta (2)
+http://hls-01-dfm.hostingradio.ru/guetta/playlist.m3u8
+#EXTINF:-1,Радио DFM - Deep
+http://dfm.hostingradio.ru/dfmdeep96.aacp
+#EXTINF:-1,Радио DFM - Deep (2)
+http://hls-01-dfm.hostingradio.ru/dfmdeep/playlist.m3u8
+#EXTINF:-1,Радио DFM - Disco
+http://dfm.hostingradio.ru/disco96.aacp
+#EXTINF:-1,Радио DFM - Disco (2)
+http://hls-01-dfm.hostingradio.ru/disco/playlist.m3u8
+#EXTINF:-1,Радио DFM - Festivals Gold
+http://dfm.hostingradio.ru/festivalgold96.aacp
+#EXTINF:-1,Радио DFM - Festivals Gold (2)
+http://hls-01-dfm.hostingradio.ru/festivalgold/playlist.m3u8
+#EXTINF:-1,Радио DFM - Future Bass
+http://dfm.hostingradio.ru/futurebass96.aacp
+#EXTINF:-1,Радио DFM - Future Bass (2)
+http://hls-01-dfm.hostingradio.ru/futurebass/playlist.m3u8
+#EXTINF:-1,Радио DFM - Gangsta Deep
+http://dfm.hostingradio.ru/gangstadeep96.aacp
+#EXTINF:-1,Радио DFM - Gangsta Deep (2)
+http://hls-01-dfm.hostingradio.ru/gangstadeep/playlist.m3u8
+#EXTINF:-1,Радио DFM - Gorillaz
+http://dfm.hostingradio.ru/gorillaz96.aacp
+#EXTINF:-1,Радио DFM - Gorillaz (2)
+http://hls-01-dfm.hostingradio.ru/gorillaz/playlist.m3u8
+#EXTINF:-1,Радио DFM - Hands Up
+http://dfm.hostingradio.ru/handsup96.aacp
+#EXTINF:-1,Радио DFM - Hands Up (2)
+http://hls-01-dfm.hostingradio.ru/handsup/playlist.m3u8
+#EXTINF:-1,Радио DFM - Insomnia
+http://dfm.hostingradio.ru/insomnia96.aacp
+#EXTINF:-1,Радио DFM - Insomnia (2)
+http://hls-01-dfm.hostingradio.ru/insomnia/playlist.m3u8
+#EXTINF:-1,Радио DFM - Kpop
+http://dfm.hostingradio.ru/kpop96.aacp
+#EXTINF:-1,Радио DFM - Kpop (2)
+http://hls-01-dfm.hostingradio.ru/kpop/playlist.m3u8
+#EXTINF:-1,Радио DFM - Liquid Funk
+http://dfm.hostingradio.ru/liquid96.aacp
+#EXTINF:-1,Радио DFM - Liquid Funk (2)
+http://hls-01-dfm.hostingradio.ru/liquid/playlist.m3u8
+#EXTINF:-1,Радио DFM - Martin Garrix
+http://dfm.hostingradio.ru/garrix96.aacp
+#EXTINF:-1,Радио DFM - Martin Garrix (2)
+http://hls-01-dfm.hostingradio.ru/garrix/playlist.m3u8
+#EXTINF:-1,Радио DFM - Neuro Flow
+http://dfm.hostingradio.ru/neuroflow96.aacp
+#EXTINF:-1,Радио DFM - Neuro Flow (2)
+http://hls-01-dfm.hostingradio.ru/neuroflow/playlist.m3u8
+#EXTINF:-1,Радио DFM - Organic House
+http://dfm.hostingradio.ru/organichouse96.aacp
+#EXTINF:-1,Радио DFM - Organic House (2)
+http://hls-01-dfm.hostingradio.ru/organichouse/playlist.m3u8
+#EXTINF:-1,Радио DFM - Party
+http://dfm.hostingradio.ru/dfmparty96.aacp
+#EXTINF:-1,Радио DFM - Party (2)
+http://hls-01-dfm.hostingradio.ru/dfmparty/playlist.m3u8
+#EXTINF:-1,Радио DFM - Pop Dance
+http://dfm.hostingradio.ru/popdance96.aacp
+#EXTINF:-1,Радио DFM - Pop Dance (2)
+http://hls-01-dfm.hostingradio.ru/popdance/playlist.m3u8
+#EXTINF:-1,Радио DFM - Pop Gold 1990s
+http://dfm.hostingradio.ru/popgold9096.aacp
+#EXTINF:-1,Радио DFM - Pop Gold 1990s (2)
+http://hls-01-dfm.hostingradio.ru/popgold90/playlist.m3u8
+#EXTINF:-1,Радио DFM - Pop Gold 2000s
+http://dfm.hostingradio.ru/popgold0096.aacp
+#EXTINF:-1,Радио DFM - Pop Gold 2000s (2)
+http://hls-01-dfm.hostingradio.ru/popgold00/playlist.m3u8
+#EXTINF:-1,Радио DFM - Pop Gold 2010s
+http://dfm.hostingradio.ru/popgold1096.aacp
+#EXTINF:-1,Радио DFM - Pop Gold 2010s (2)
+http://hls-01-dfm.hostingradio.ru/popgold10/playlist.m3u8
+#EXTINF:-1,Радио DFM - Pop Gold 2020s
+http://dfm.hostingradio.ru/popgold2096.aacp
+#EXTINF:-1,Радио DFM - Pop Gold 2020s (2)
+http://hls-01-dfm.hostingradio.ru/popgold20/playlist.m3u8
+#EXTINF:-1,Радио DFM - Psy Trance
+http://dfm.hostingradio.ru/psytrance96.aacp
+#EXTINF:-1,Радио DFM - Psy Trance (2)
+http://hls-01-dfm.hostingradio.ru/psytrance/playlist.m3u8
+#EXTINF:-1,Радио DFM - Pump
+http://dfm.hostingradio.ru/pump96.aacp
+#EXTINF:-1,Радио DFM - Pump (2)
+http://hls-01-dfm.hostingradio.ru/pump/playlist.m3u8
+#EXTINF:-1,Радио DFM - Rap
+http://dfm.hostingradio.ru/dfmrap96.aacp
+#EXTINF:-1,Радио DFM - Rap (2)
+http://hls-01-dfm.hostingradio.ru/dfmrap/playlist.m3u8
+#EXTINF:-1,Радио DFM - Remake
+http://dfm.hostingradio.ru/remake96.aacp
+#EXTINF:-1,Радио DFM - Remake (2)
+http://hls-01-dfm.hostingradio.ru/remake/playlist.m3u8
+#EXTINF:-1,Радио DFM - Russian Dance
+http://dfm.hostingradio.ru/dfmrusdance96.aacp
+#EXTINF:-1,Радио DFM - Russian Dance (2)
+http://hls-01-dfm.hostingradio.ru/dfmrusdance/playlist.m3u8
+#EXTINF:-1,Радио DFM - Russian Gold
+http://dfm.hostingradio.ru/russiangold96.aacp
+#EXTINF:-1,Радио DFM - Russian Gold (2)
+http://hls-01-dfm.hostingradio.ru/russiangold/playlist.m3u8
+#EXTINF:-1,Радио DFM - Savannah Beat
+http://dfm.hostingradio.ru/savanbeat96.aacp
+#EXTINF:-1,Радио DFM - Savannah Beat (2)
+http://hls-01-dfm.hostingradio.ru/savanbeat/playlist.m3u8
+#EXTINF:-1,Радио DFM - Scooter
+http://dfm.hostingradio.ru/scooter96.aacp
+#EXTINF:-1,Радио DFM - Scooter (2)
+http://hls-01-dfm.hostingradio.ru/scooter/playlist.m3u8
+#EXTINF:-1,Радио DFM - Skrillex
+http://dfm.hostingradio.ru/skrillex96.aacp
+#EXTINF:-1,Радио DFM - Skrillex (2)
+http://hls-01-dfm.hostingradio.ru/skrillex/playlist.m3u8
+#EXTINF:-1,Радио DFM - Slap Bass
+http://dfm.hostingradio.ru/slapbass96.aacp
+#EXTINF:-1,Радио DFM - Slap Bass (2)
+http://hls-01-dfm.hostingradio.ru/slapbass/playlist.m3u8
+#EXTINF:-1,Радио DFM - Swedish House Mafia
+http://dfm.hostingradio.ru/housemafia96.aacp
+#EXTINF:-1,Радио DFM - Swedish House Mafia (2)
+http://hls-01-dfm.hostingradio.ru/housemafia/playlist.m3u8
+#EXTINF:-1,Радио DFM - Tech House
+http://dfm.hostingradio.ru/techhouse96.aacp
+#EXTINF:-1,Радио DFM - Tech House (2)
+http://hls-01-dfm.hostingradio.ru/techhouse/playlist.m3u8
+#EXTINF:-1,Радио DFM - The Prodigy
+http://dfm.hostingradio.ru/prodigy96.aacp
+#EXTINF:-1,Радио DFM - The Prodigy (2)
+http://hls-01-dfm.hostingradio.ru/prodigy/playlist.m3u8
+#EXTINF:-1,Радио DFM - Tiesto
+http://dfm.hostingradio.ru/tiesto96.aacp
+#EXTINF:-1,Радио DFM - Tiesto (2)
+http://hls-01-dfm.hostingradio.ru/tiesto/playlist.m3u8
+#EXTINF:-1,Радио DFM - Trap
+http://dfm.hostingradio.ru/dfmtrap96.aacp
+#EXTINF:-1,Радио DFM - Trap (2)
+http://hls-01-dfm.hostingradio.ru/dfmtrap/playlist.m3u8
+#EXTINF:-1,Радио DFM - Vocal Drum
+http://dfm.hostingradio.ru/drum96.aacp
+#EXTINF:-1,Радио DFM - Vocal Drum (2)
+http://hls-01-dfm.hostingradio.ru/drum/playlist.m3u8
+#EXTINF:-1,Радио DFM - Vocal Trance
+http://dfm.hostingradio.ru/trance96.aacp
+#EXTINF:-1,Радио DFM - Vocal Trance (2)
+http://hls-01-dfm.hostingradio.ru/trance/playlist.m3u8
+#EXTINF:-1,Радио DFM - Грустный Дэнс
+http://dfm.hostingradio.ru/saddance96.aacp
+#EXTINF:-1,Радио DFM - Грустный Дэнс (2)
+http://hls-01-dfm.hostingradio.ru/saddance/playlist.m3u8
+#EXTINF:-1,Радио DFM - Дискач 90-х
+http://dfm.hostingradio.ru/disc9096.aacp
+#EXTINF:-1,Радио DFM - Дискач 90-х (2)
+http://hls-01-dfm.hostingradio.ru/disc90/playlist.m3u8
+#EXTINF:-1,Радио DFM - Кальян Рэп
+http://dfm.hostingradio.ru/kalianrap96.aacp
+#EXTINF:-1,Радио DFM - Кальян Рэп (2)
+http://hls-01-dfm.hostingradio.ru/kalianrap/playlist.m3u8
+#EXTINF:-1,Радио DFM - Русский Рейв
+http://dfm.hostingradio.ru/russianrave96.aacp
+#EXTINF:-1,Радио DFM - Русский Рейв (2)
+http://hls-01-dfm.hostingradio.ru/russianrave/playlist.m3u8
+#EXTINF:-1,Радио Maximum
+http://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1,Радио Maximum (128)
+http://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1,Радио Maximum (2)
+http://radio.kruglikov.info/maximum_96aac
+#EXTINF:-1,Радио Maximum (3)
+http://78.30.254.137:8000/radiomaximum
+#EXTINF:-1,Радио Maximum (32)
+http://maximum.hostingradio.ru/maximum32.aacp
+#EXTINF:-1,Радио Maximum (4)
+http://176.106.88.195:8010/maximum
+#EXTINF:-1,Радио Maximum (5)
+http://78.138.135.12:8000/19-maximum
+#EXTINF:-1,Радио Maximum (6)
+http://hls-01-maximum.hostingradio.ru/maximum/playlist.m3u8
+#EXTINF:-1,Радио Maximum (Березники)
+http://radioberezniki.ru:8000/berikimax
+#EXTINF:-1,Радио Maximum (Ижевск)
+http://media.mediatime.ru:8051/Maximum
+#EXTINF:-1,Радио Maximum (Калининград)
+http://78.36.194.205:8000/stream/5/
+#EXTINF:-1,Радио Maximum (Керчь)
+https://radio.promedia.ru/max-kerch
+#EXTINF:-1,Радио Maximum (Пермь)
+http://46.146.243.42:8000/max
+#EXTINF:-1,Радио Maximum (Пятигорск)
+http://s0.radioheart.ru:8000/RH72493
+#EXTINF:-1,Радио Maximum (Ржев)
+http://178.218.20.171:31804/maximum_rzhev
+#EXTINF:-1,Радио Maximum (Севастополь)
+https://radio.promedia.ru/max-sev
+#EXTINF:-1,Радио Maximum (Симферополь)
+https://radio.promedia.ru/max-simf
+#EXTINF:-1,Радио Maximum (Тверь)
+http://radio.tp.tver.ru:8000/maximum_mp3
+#EXTINF:-1,Радио Maximum (Тверь) (2)
+http://radio.tp.tver.ru:8000/max_efir
+#EXTINF:-1,Радио Maximum (Тверь) (3)
+http://radio.tp.tver.ru:8000/maximum
+#EXTINF:-1,Радио Maximum (Томск)
+http://listen.radio.tomsk.ru:8000/maximum
+#EXTINF:-1,Радио Maximum (Феодосия)
+https://radio.promedia.ru/max-feo
+#EXTINF:-1,Радио Maximum (Ялта)
+https://radio.promedia.ru/max-yalta
+#EXTINF:-1,Радио Maximum - Beats & Riffs
+http://maximum.hostingradio.ru/maxerock96.aacp
+#EXTINF:-1,Радио Maximum - Beats & Riffs (2)
+http://hls-01-maximum.hostingradio.ru/maxerock/playlist.m3u8
+#EXTINF:-1,Радио Maximum - BritPop
+http://maximum.hostingradio.ru/maxbritpop96.aacp
+#EXTINF:-1,Радио Maximum - BritPop (2)
+http://hls-01-maximum.hostingradio.ru/maxbritpop/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Covers
+http://maximum.hostingradio.ru/maxcover96.aacp
+#EXTINF:-1,Радио Maximum - Covers (2)
+http://hls-01-maximum.hostingradio.ru/maxcover/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Depeche Mode
+http://maximum.hostingradio.ru/depechemode96.aacp
+#EXTINF:-1,Радио Maximum - Depeche Mode (2)
+http://hls-01-maximum.hostingradio.ru/depechemode/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Emo
+http://maximum.hostingradio.ru/maxdark96.aacp
+#EXTINF:-1,Радио Maximum - Emo (2)
+http://hls-01-maximum.hostingradio.ru/maxdark/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Grunge
+http://maximum.hostingradio.ru/grunge96.aacp
+#EXTINF:-1,Радио Maximum - Grunge (2)
+http://hls-01-maximum.hostingradio.ru/grunge/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Hall of Fame
+http://maximum.hostingradio.ru/maxhall96.aacp
+#EXTINF:-1,Радио Maximum - Hall of Fame (2)
+http://hls-01-maximum.hostingradio.ru/maxhall/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Heavy 80s
+http://maximum.hostingradio.ru/max8096.aacp
+#EXTINF:-1,Радио Maximum - Heavy 80s (2)
+http://hls-01-maximum.hostingradio.ru/max80/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Heavy Monday
+http://maximum.hostingradio.ru/heavymonday96.aacp
+#EXTINF:-1,Радио Maximum - Heavy Monday (2)
+http://hls-01-maximum.hostingradio.ru/heavymonday/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Indie
+http://maximum.hostingradio.ru/indie96.aacp
+#EXTINF:-1,Радио Maximum - Indie (2)
+http://hls-01-maximum.hostingradio.ru/indie/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Linkin Park
+http://maximum.hostingradio.ru/linkinpark96.aacp
+#EXTINF:-1,Радио Maximum - Linkin Park (2)
+http://hls-01-maximum.hostingradio.ru/linkinpark/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Metallica
+http://maximum.hostingradio.ru/metallica96.aacp
+#EXTINF:-1,Радио Maximum - Metallica (2)
+http://hls-01-maximum.hostingradio.ru/metallica/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Muse
+http://maximum.hostingradio.ru/maxmuse96.aacp
+#EXTINF:-1,Радио Maximum - Muse (2)
+http://hls-01-maximum.hostingradio.ru/maxmuse/playlist.m3u8
+#EXTINF:-1,Радио Maximum - New Russian
+http://maximum.hostingradio.ru/maxnewrussians96.aacp
+#EXTINF:-1,Радио Maximum - New Russian (2)
+http://hls-01-maximum.hostingradio.ru/maxnewrussians/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Nirvana
+http://maximum.hostingradio.ru/nirvana96.aacp
+#EXTINF:-1,Радио Maximum - Nirvana (2)
+http://hls-01-maximum.hostingradio.ru/nirvana/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Punk
+http://maximum.hostingradio.ru/maxpunk96.aacp
+#EXTINF:-1,Радио Maximum - Punk (2)
+http://hls-01-maximum.hostingradio.ru/maxpunk/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Rammstein
+http://maximum.hostingradio.ru/rammstein96.aacp
+#EXTINF:-1,Радио Maximum - Rammstein (2)
+http://hls-01-maximum.hostingradio.ru/rammstein/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Red Hot Chili Peppers
+http://maximum.hostingradio.ru/maxrhcp96.aacp
+#EXTINF:-1,Радио Maximum - Red Hot Chili Peppers (2)
+http://hls-01-maximum.hostingradio.ru/maxrhcp/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Rock Hits
+http://maximum.hostingradio.ru/rockhits96.aacp
+#EXTINF:-1,Радио Maximum - Rock Hits (2)
+http://hls-01-maximum.hostingradio.ru/rockhits/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Russian Rock
+http://maximum.hostingradio.ru/maxrussian96.aacp
+#EXTINF:-1,Радио Maximum - Russian Rock (2)
+http://hls-01-maximum.hostingradio.ru/maxrussian/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Soft
+http://maximum.hostingradio.ru/maxsoft96.aacp
+#EXTINF:-1,Радио Maximum - Soft (2)
+http://hls-01-maximum.hostingradio.ru/maxsoft/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Supernova
+http://maximum.hostingradio.ru/maxunplugged96.aacp
+#EXTINF:-1,Радио Maximum - Supernova (2)
+http://hls-01-maximum.hostingradio.ru/maxunplugged/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Девяностые
+http://maximum.hostingradio.ru/maximum9096.aacp
+#EXTINF:-1,Радио Maximum - Девяностые (2)
+http://hls-01-maximum.hostingradio.ru/maximum90/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Миллениум
+http://maximum.hostingradio.ru/millenium96.aacp
+#EXTINF:-1,Радио Maximum - Миллениум (2)
+http://hls-01-maximum.hostingradio.ru/millenium/playlist.m3u8
+#EXTINF:-1,Радио Maximum - Регби
+http://maximum.hostingradio.ru/rugby96.aacp
+#EXTINF:-1,Радио Maximum - Регби (2)
+http://hls-01-maximum.hostingradio.ru/rugby/playlist.m3u8
+#EXTINF:-1,Радио Монте-Карло
+http://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:-1,Радио Монте-Карло (128)
+http://montecarlo.hostingradio.ru/montecarlo128.mp3
+#EXTINF:-1,Радио Монте-Карло (2)
+http://online2.gkvr.ru:8000/montecarlo96.aac
+#EXTINF:-1,Радио Монте-Карло (3)
+http://radio.kruglikov.info/montecarlo_96
+#EXTINF:-1,Радио Монте-Карло (32)
+http://montecarlo.hostingradio.ru/montecarlo32.aacp
+#EXTINF:-1,Радио Монте-Карло (4)
+http://176.106.88.195:8010/montecarlo
+#EXTINF:-1,Радио Монте-Карло (5)
+http://89.108.71.155:8000/monte-karlo
+#EXTINF:-1,Радио Монте-Карло (Барнаул)
+https://cast.fmprod.ru/montecarlo_brn
+#EXTINF:-1,Радио Монте-Карло (Белово)
+http://80.89.152.251:8080/;
+#EXTINF:-1,Радио Монте-Карло (Великий Новгород)
+http://nov.rlnk.ru:8000/radio.mcarlo
+#EXTINF:-1,Радио Монте-Карло (Владивосток)
+http://194.58.122.69:8000/mcvl
+#EXTINF:-1,Радио Монте-Карло (Владикавказ)
+http://broadcast.osetiafm.ru/mc.mp3
+#EXTINF:-1,Радио Монте-Карло (Воронеж)
+http://live.borneo.ru:8888/rmc128
+#EXTINF:-1,Радио Монте-Карло (Воронеж) (2)
+http://82.146.46.30:8000/montecarlo
+#EXTINF:-1,Радио Монте-Карло (Воронеж) (3)
+http://live.borneo.ru:8888/rmc64
+#EXTINF:-1,Радио Монте-Карло (Екатеринбург)
+http://online-1.gkvr.ru:8000/mc_eka_64.aac
+#EXTINF:-1,Радио Монте-Карло (Иваново)
+http://91.219.74.220:8000/Monte-Carlo.mp3
+#EXTINF:-1,Радио Монте-Карло (Иваново) (2)
+http://91.219.74.220:8000/Monte-Carlo.ogg
+#EXTINF:-1,Радио Монте-Карло (Калуга)
+http://online2.gkvr.ru:8000/mc_klg_64.aac
+#EXTINF:-1,Радио Монте-Карло (Каменск-Уральский)
+http://mg-kompas.ru/k1052
+#EXTINF:-1,Радио Монте-Карло (Курган)
+http://78.108.67.237:53804/stream
+#EXTINF:-1,Радио Монте-Карло (Н.Новгород)
+http://online2.gkvr.ru:8000/mc_nno_64.aac
+#EXTINF:-1,Радио Монте-Карло (Нальчик)
+https://a9.radioheart.ru:9024/RH37507
+#EXTINF:-1,Радио Монте-Карло (Находка)
+http://misato.ru-hoster.com:8045/rmc-nhd
+#EXTINF:-1,Радио Монте-Карло (Новосибирск)
+http://sv-veter.fvds.ru:8000/montekarlor_nsk_high
+#EXTINF:-1,Радио Монте-Карло (Новосибирск) (2)
+http://sv-veter.fvds.ru:8000/montekarlor_nsk_low
+#EXTINF:-1,Радио Монте-Карло (Новосибирск) (3)
+http://s0.radioheart.ru:8000/RH79574
+#EXTINF:-1,Радио Монте-Карло (Обнинск)
+http://77.244.74.133:1956/mc
+#EXTINF:-1,Радио Монте-Карло (Омск)
+http://radio.mediacdn.ru/shanson_omsk.mp3
+#EXTINF:-1,Радио Монте-Карло (Орел)
+http://87.244.47.90:8000/orel-rmc
+#EXTINF:-1,Радио Монте-Карло (Оренбург)
+http://radio.omg56.ru:8000/Monte_Carlo_Oren
+#EXTINF:-1,Радио Монте-Карло (Оренбург) (2)
+http://radio.omg56.ru:8000/Monte_Carlo_Oren_64
+#EXTINF:-1,Радио Монте-Карло (Орск)
+http://icecast.ural56.cdnvideo.ru:8000/radio_m-carlo
+#EXTINF:-1,Радио Монте-Карло (Ростов на Дону)
+http://online-1.gkvr.ru:8000/mc_rnd_64.aac
+#EXTINF:-1,Радио Монте-Карло (Рязань)
+https://radio.pnzradio.ru:8443/monte_rzn
+#EXTINF:-1,Радио Монте-Карло (С.Петербург)
+http://icecast227.ptspb.ru:8104/monte
+#EXTINF:-1,Радио Монте-Карло (С.Петербург) (2)
+http://icecast227.ptspb.ru:8104/mntzm256
+#EXTINF:-1,Радио Монте-Карло (Саранск)
+http://dfmsaransk.sv-veter.ru:8092/rmc_saransk
+#EXTINF:-1,Радио Монте-Карло (Саратов)
+https://radio.pnzradio.ru:8443/mc_64
+#EXTINF:-1,Радио Монте-Карло (Симферополь)
+https://radio.promedia.ru/mc-simf
+#EXTINF:-1,Радио Монте-Карло (Тверь)
+http://radio.tp.tver.ru:8000/mc
+#EXTINF:-1,Радио Монте-Карло (Тольятти)
+https://owa.people-fm.ru:8008/ho_63_05
+#EXTINF:-1,Радио Монте-Карло (Тула)
+http://87.244.47.90:8000/RMC
+#EXTINF:-1,Радио Монте-Карло (Уссурийск)
+http://inhold.org:8000/montecarlo-ussuriysk
+#EXTINF:-1,Радио Монте-Карло (Уссурийск) (2)
+http://inhold.org:8000/montecarlo-ussuriysk-air
+#EXTINF:-1,Радио Монте-Карло (Хабаровск)
+http://radio.gubernia.com:8000/radio9
+#EXTINF:-1,Радио Монте-Карло - Bossa Nova
+http://montecarlo.hostingradio.ru/mcbossa96.aacp
+#EXTINF:-1,Радио Монте-Карло - Chill Lounge
+http://montecarlo.hostingradio.ru/chilllonge96.aacp
+#EXTINF:-1,Радио Монте-Карло - Covers
+http://montecarlo.hostingradio.ru/mccovers96.aacp
+#EXTINF:-1,Радио Монте-Карло - France
+http://montecarlo.hostingradio.ru/france96.aacp
+#EXTINF:-1,Радио Монте-Карло - Funk Cocktail
+http://montecarlo.hostingradio.ru/funkcoctail96.aacp
+#EXTINF:-1,Радио Монте-Карло - Gold Collection
+http://montecarlo.hostingradio.ru/mcgold96.aacp
+#EXTINF:-1,Радио Монте-Карло - Golf Cup
+http://montecarlo.hostingradio.ru/golfcup96.aacp
+#EXTINF:-1,Радио Монте-Карло - Meditation
+http://montecarlo.hostingradio.ru/meditation96.aacp
+#EXTINF:-1,Радио Монте-Карло - Monte Italiano
+http://montecarlo.hostingradio.ru/italiano96.aacp
+#EXTINF:-1,Радио Монте-Карло - Nights
+http://montecarlo.hostingradio.ru/mcnight96.aacp
+#EXTINF:-1,Радио Монте-Карло - Summertime
+http://montecarlo.hostingradio.ru/summertime96.aacp
+#EXTINF:-1,Радио Монте-Карло - Sweet
+http://montecarlo.hostingradio.ru/mcsweet96.aacp
+#EXTINF:-1,Радио Монте-Карло - The Best of Crossover
+http://montecarlo.hostingradio.ru/crossover96.aacp
+#EXTINF:-1,Радио Монте-Карло - Winter Cup
+http://montecarlo.hostingradio.ru/wintercup96.aacp
+#EXTINF:-1,Радио Монте-Карло - Wonderful Blues
+http://montecarlo.hostingradio.ru/blues96.aacp
+#EXTINF:-1,Радио Монте-Карло - Время Джаза
+http://montecarlo.hostingradio.ru/mcjazz96.aacp
+#EXTINF:-1,Радио Монте-Карло - Мировое кино
+http://montecarlo.hostingradio.ru/mirkino96.aacp
+#EXTINF:-1,Радио Монте-Карло - Музыка без слов
+http://montecarlo.hostingradio.ru/muzykabezslov96.aacp
+#EXTINF:-1,Радио Монте-Карло - Новогоднее
+http://montecarlo.hostingradio.ru/newyear96.aacp
+#EXTINF:-1,Радио Монте-Карло - Песни о Любви
+http://montecarlo.hostingradio.ru/pesniolyubvi96.aacp
+#EXTINF:-1,Радио Хит FM
+http://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1,Радио Хит FM (128)
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1,Радио Хит FM (2)
+http://hls-01-hitfm.hostingradio.ru/hitfm/playlist.m3u8
+#EXTINF:-1,Радио Хит FM (3)
+http://78.30.254.137:8000/hitfm
+#EXTINF:-1,Радио Хит FM (32)
+http://hitfm.hostingradio.ru/hitfm32.aacp
+#EXTINF:-1,Радио Хит FM (4)
+http://217.19.211.252:8022/HitFM
+#EXTINF:-1,Радио Хит FM (5)
+http://77.39.8.49:8000/hit_sat_192
+#EXTINF:-1,Радио Хит FM (6)
+http://176.106.88.195:8010/hitfm
+#EXTINF:-1,Радио Хит FM (7)
+http://online2.gkvr.ru:8000/hitfm96.aac
+#EXTINF:-1,Радио Хит FM (8)
+http://89.108.71.155:8000/hit-fm
+#EXTINF:-1,Радио Хит FM (9)
+http://79.132.121.108:8000/hitfmmsk
+#EXTINF:-1,Радио Хит FM (Алексин)
+http://stream.volnorez.com/live-app/853055?br=192
+#EXTINF:-1,Радио Хит FM (Ачинск)
+http://free.radioheart.ru:8000/RH78349
+#EXTINF:-1,Радио Хит FM (Бакалы)
+http://node0.craftradio.ru:8000/9_6DD0C85C
+#EXTINF:-1,Радио Хит FM (Глазов)
+http://91.210.192.247:8000/02
+#EXTINF:-1,Радио Хит FM (Екатеринбург)
+http://online2.gkvr.ru:8000/hitfm_eka_64.aac
+#EXTINF:-1,Радио Хит FM (Елизово)
+http://194.79.6.232:8004/hitfm
+#EXTINF:-1,Радио Хит FM (Ижевск)
+http://media.mediatime.ru:8051/Hit-fm_Izhevsk
+#EXTINF:-1,Радио Хит FM (Изобильный)
+http://77.39.8.49:8000/hit_izo
+#EXTINF:-1,Радио Хит FM (Иркутск)
+http://91.185.32.165:8988/hitfm38
+#EXTINF:-1,Радио Хит FM (Калуга)
+http://online2.gkvr.ru:8000/hitfm_klg_64.aac
+#EXTINF:-1,Радио Хит FM (Кострома)
+http://radio.nmg-media.ru:8021/hit
+#EXTINF:-1,Радио Хит FM (Курган)
+http://s0.radioheart.ru:8000/RH76941
+#EXTINF:-1,Радио Хит FM (Можга)
+http://78.31.7.127:8000/02
+#EXTINF:-1,Радио Хит FM (Невинномысск)
+http://77.39.8.49:8000/hit_nev
+#EXTINF:-1,Радио Хит FM (Нижний Новгород)
+http://online2.gkvr.ru:8000/hitfm_nno_64.acc
+#EXTINF:-1,Радио Хит FM (Новомосковск)
+http://stream.volnorez.com/live-app/443504?br=192
+#EXTINF:-1,Радио Хит FM (Новосибирск)
+https://sv-veter.fvds.ru/hitfm_nsk_high
+#EXTINF:-1,Радио Хит FM (Новосибирск) (2)
+https://sv-veter.fvds.ru/hitfm_nsk_low
+#EXTINF:-1,Радио Хит FM (Оренбург)
+http://radio.omg56.ru:8000/Hit_fm_Oren
+#EXTINF:-1,Радио Хит FM (Оренбург) (2)
+http://radio.omg56.ru:8000/Hit_fm_Oren64
+#EXTINF:-1,Радио Хит FM (Орск)
+http://radio.omg56.ru:8000/Hit_fm_Orsk
+#EXTINF:-1,Радио Хит FM (Пермь)
+http://46.146.243.42:8000/hit
+#EXTINF:-1,Радио Хит FM (Пятигорск)
+http://str.simpex.ru:8076/HIT
+#EXTINF:-1,Радио Хит FM (Ростов на-Дону)
+http://online2.gkvr.ru:8000/hitfm_rnd_64.aac
+#EXTINF:-1,Радио Хит FM (Рубцовск)
+http://178.248.87.50:8000/Hitfm
+#EXTINF:-1,Радио Хит FM (Рубцовск) (2)
+https://cast.fmprod.ru/hitfm_rbc
+#EXTINF:-1,Радио Хит FM (Серпухов)
+http://188.164.138.46:8010/hitfmserp
+#EXTINF:-1,Радио Хит FM (Серпухов) (2)
+http://188.164.138.46:8010/stream.mp3
+#EXTINF:-1,Радио Хит FM (Серпухов) (3)
+http://188.164.138.46:8010/europaserp
+#EXTINF:-1,Радио Хит FM (Серпухов) (4)
+http://79.132.121.108:8000/hitfmserp
+#EXTINF:-1,Радио Хит FM (Серпухов) (5)
+http://online.holdingfm.ru:8010/europa_efir
+#EXTINF:-1,Радио Хит FM (Ставрополь)
+http://77.39.8.49:8000/hit_stv
+#EXTINF:-1,Радио Хит FM (Сургут)
+http://hitsurgut.ru:8000/hit
+#EXTINF:-1,Радио Хит FM (Сургут) (2)
+http://hitsurgut.ru:8000/hit128
+#EXTINF:-1,Радио Хит FM (Сыктывкар)
+https://cast.severmedia.ru:5443/HIT_11_01
+#EXTINF:-1,Радио Хит FM (Тверь)
+http://radio.tp.tver.ru:8000/hit
+#EXTINF:-1,Радио Хит FM (Томск)
+http://listen.radio.tomsk.ru:8000/hitfm
+#EXTINF:-1,Радио Хит FM (Тюмень)
+http://89.204.58.59:8000/ht_72_01
+#EXTINF:-1,Радио Хит FM (Усть-Илимск)
+http://91.219.136.152:55655/stream6.mp3
+#EXTINF:-1,Радио Хит FM (Усть-Илимск) (2)
+http://91.219.136.152:55655/stream6.ogg
+#EXTINF:-1,Радио Хит FM (Ярославль)
+http://gtk.tv/hitfmhls/hitfm.m3u8
+#EXTINF:-1,Радио Хит FM - 2000s
+http://hitfm.hostingradio.ru/hit200096.aacp
+#EXTINF:-1,Радио Хит FM - 2010s
+http://hitfm.hostingradio.ru/hit201096.aacp
+#EXTINF:-1,Радио Хит FM - Ballads
+http://hitfm.hostingradio.ru/ballads96.aacp
+#EXTINF:-1,Радио Хит FM - Dance 1990s
+http://hitfm.hostingradio.ru/hitdance9096.aacp
+#EXTINF:-1,Радио Хит FM - Dance 2000s
+http://hitfm.hostingradio.ru/hitdance0096.aacp
+#EXTINF:-1,Радио Хит FM - Dance 2010s
+http://hitfm.hostingradio.ru/hitdance1096.aacp
+#EXTINF:-1,Радио Хит FM - Heroes
+http://hitfm.hostingradio.ru/hitheroes96.aacp
+#EXTINF:-1,Радио Хит FM - Hip Hop
+http://hitfm.hostingradio.ru/hithiphop96.aacp
+#EXTINF:-1,Радио Хит FM - Party
+http://hitfm.hostingradio.ru/hitparty96.aacp
+#EXTINF:-1,Радио Хит FM - Positive
+http://hitfm.hostingradio.ru/hitpositive96.aacp
+#EXTINF:-1,Радио Хит FM - PreParty
+http://hitfm.hostingradio.ru/hitpreparty96.aacp
+#EXTINF:-1,Радио Хит FM - Smart Pop
+http://hitfm.hostingradio.ru/smartpop96.aacp
+#EXTINF:-1,Радио Хит FM - Soft Rock 1990s
+http://hitfm.hostingradio.ru/softrock9096.aacp
+#EXTINF:-1,Радио Хит FM - Soft Rock 2000s
+http://hitfm.hostingradio.ru/softrock0096.aacp
+#EXTINF:-1,Радио Хит FM - Soft Rock 2010s
+http://hitfm.hostingradio.ru/softrock1096.aacp
+#EXTINF:-1,Радио Хит FM - We Can Dance
+http://hitfm.hostingradio.ru/hitwecandance96.aacp
+#EXTINF:-1,Радио Хит FM - Двигай Лопес
+http://hitfm.hostingradio.ru/hitlopez96.aacp
+#EXTINF:-1,Радио Хит FM - Кавер
+http://hitfm.hostingradio.ru/hitcover96.aacp
+#EXTINF:-1,Радио Хит FM - Летний Хитовый Чил
+http://hitfm.hostingradio.ru/hitsummerchill96.aacp
+#EXTINF:-1,Радио Хит FM - Новогодний
+http://hitfm.hostingradio.ru/hitnewyear96.aacp
+#EXTINF:-1,Радио Хит FM - Патио
+http://hitfm.hostingradio.ru/hitpatio96.aacp
+#EXTINF:-1,Радио Хит FM - Русская Музыка
+http://hitfm.hostingradio.ru/hitrushit96.aacp
+#EXTINF:-1,Радио Хит FM - С любовью
+http://hitfm.hostingradio.ru/hitlove96.aacp
+#EXTINF:-1,Радио Хит FM - Стопудовый
+http://hitfm.hostingradio.ru/hit100pud96.aacp
+#EXTINF:-1,Радио Хит FM - Хит на бегу
+http://hitfm.hostingradio.ru/hitontherun96.aacp
+#EXTINF:-1,Радио Хит FM - Хиты без правил
+http://hitfm.hostingradio.ru/hitsoutrul96.aacp
+#EXTINF:-1,Радио Хит FM Бишкек
+http://cdn.radioplayer.kg:8000/hitfm64
+#EXTINF:-1,Радио Хит FM Бишкек (2)
+http://212.2.224.95:8000/hitfm-bishkek.mp3
+#EXTINF:-1,Радио Хит FM Бишкек (3)
+http://54.154.49.88:8000/Kyrgyzstan/HitFM
+#EXTINF:-1,Русское Радио
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1,Русское Радио (10)
+http://online2.gkvr.ru:8000/rusradio96.aac
+#EXTINF:-1,Русское Радио (11)
+http://89.108.71.155:8000/russkoe
+#EXTINF:-1,Русское Радио (12)
+https://radio.pnzradio.ru:8443/rr_msc
+#EXTINF:-1,Русское Радио (128)
+http://rusradio.hostingradio.ru/rusradio128.mp3
+#EXTINF:-1,Русское Радио (13)
+http://s0.radioheart.ru:8000/rr_44
+#EXTINF:-1,Русское Радио (14)
+http://control.craftradio.ru:8000/29_ebb253e6
+#EXTINF:-1,Русское Радио (15)
+http://control.craftradio.ru:8000/98_d52d2277
+#EXTINF:-1,Русское Радио (16)
+http://node0.craftradio.ru:8000/169_98CF3ECA
+#EXTINF:-1,Русское Радио (17)
+http://control.craftradio.ru:8000/stream_20
+#EXTINF:-1,Русское Радио (18)
+http://control.craftradio.ru:8000/99_42a5b2ab
+#EXTINF:-1,Русское Радио (19)
+http://control.craftradio.ru:8000/stream_19
+#EXTINF:-1,Русское Радио (2)
+http://212.2.224.95:8000/rusradio.mp3
+#EXTINF:-1,Русское Радио (20)
+http://37.49.207.240:8000/RussianRadio
+#EXTINF:-1,Русское Радио (3)
+http://radio.nmg-media.ru:8021/rmgrr
+#EXTINF:-1,Русское Радио (32)
+http://rusradio.hostingradio.ru/rusradio32.aacp
+#EXTINF:-1,Русское Радио (4)
+http://78.30.254.137:8000/russkoeradio
+#EXTINF:-1,Русское Радио (5)
+http://31.173.143.103:8000/russian_dub.mp3
+#EXTINF:-1,Русское Радио (6)
+http://176.106.88.195:8010/rusradio
+#EXTINF:-1,Русское Радио (7)
+http://radio2.mmip.ru:8000/russkoe-radio
+#EXTINF:-1,Русское Радио (8)
+http://listen.vdfm.ru:8000/rusradio
+#EXTINF:-1,Русское Радио (9)
+http://54.154.49.88:8000/Russia/RussianRadio
+#EXTINF:-1,Русское Радио (Алушта)
+https://radio.promedia.ru/rr-alushta
+#EXTINF:-1,Русское Радио (Арсеньев)
+http://inhold.org:8000/rusradio-arseniev-air
+#EXTINF:-1,Русское Радио (Асбест)
+http://control.craftradio.ru:8000/54_0c122810
+#EXTINF:-1,Русское Радио (Барнаул)
+https://cast.fmprod.ru/rus_brn
+#EXTINF:-1,Русское Радио (Белогорск)
+http://icecast01.msk.d-net.pro:8000/Russia-Belogorsk-102.8-Russkoe_radio_Belogorsk
+#EXTINF:-1,Русское Радио (Березники)
+http://radioberezniki.ru:8000/berikirr
+#EXTINF:-1,Русское Радио (Бийск)
+https://cast.fmprod.ru/rus_bsk
+#EXTINF:-1,Русское Радио (Биробиджан)
+http://31.173.143.103:8000/Russian
+#EXTINF:-1,Русское Радио (Братск)
+http://91.189.162.134:8002/stream
+#EXTINF:-1,Русское Радио (Буденновск)
+http://88.212.237.12:8000/budyonnovsk.rusradio96.aacp
+#EXTINF:-1,Русское Радио (Великий Новгород)
+http://nov.rlnk.ru:8000/radio.rus_vn
+#EXTINF:-1,Русское Радио (Владивосток)
+http://194.58.122.69:8000/rrvl
+#EXTINF:-1,Русское Радио (Владикавказ)
+http://broadcast.osetiafm.ru/rr.mp3
+#EXTINF:-1,Русское Радио (Волгоград)
+http://volgograd.sv-veter.ru:8008/russkoe_vlg
+#EXTINF:-1,Русское Радио (Вологда)
+http://online-2.gkvr.ru:8000/rusradio_vld_64.aac
+#EXTINF:-1,Русское Радио (Вологда) (2)
+http://online-2.gkvr.ru:8000/rusradio11_vld_64.aac
+#EXTINF:-1,Русское Радио (Воронеж)
+http://live.borneo.ru:8888/rus64mt
+#EXTINF:-1,Русское Радио (Воронеж) (2)
+http://82.146.46.30:8000/rusradio
+#EXTINF:-1,Русское Радио (Воткинск)
+http://media.mediatime.ru:8051/rr-vtk
+#EXTINF:-1,Русское Радио (Выборг)
+http://79.173.124.23:1121/Rusvib
+#EXTINF:-1,Русское Радио (Выкса)
+http://79.132.121.108:8000/rusradiovyksa
+#EXTINF:-1,Русское Радио (Галич)
+http://radio.nmg-media.ru:8021/galich_rr
+#EXTINF:-1,Русское Радио (Глазов)
+http://media.mediatime.ru:8051/rr-glazov
+#EXTINF:-1,Русское Радио (Губкинский)
+http://stream.vektor-tv.ru:8000/rusrd
+#EXTINF:-1,Русское Радио (Джанкой)
+https://radio.promedia.ru/rr-dzhankoy
+#EXTINF:-1,Русское Радио (Евпатория)
+https://radio.promedia.ru/rr-evp
+#EXTINF:-1,Русское Радио (Егорьевск)
+http://77.244.74.133:1956/rre
+#EXTINF:-1,Русское Радио (Ейск)
+http://85.175.216.65:8000/RR_T_Sputnik
+#EXTINF:-1,Русское Радио (Екатеринбург)
+http://online-2.gkvr.ru:8000/rusradio_eka_64.aac
+#EXTINF:-1,Русское Радио (Елец)
+http://onair.lipetskfm.ru:8000/rusradio_elets
+#EXTINF:-1,Русское Радио (Зерноград)
+http://s0.radioheart.ru:8000/RH53177
+#EXTINF:-1,Русское Радио (Иваново)
+http://stream.ivpromedia.ru:8000/Russkoe-radio.mp3
+#EXTINF:-1,Русское Радио (Иваново) (2)
+http://stream.ivpromedia.ru:8000/Russkoe-radio.ogg
+#EXTINF:-1,Русское Радио (Ижевск)
+http://media.mediatime.ru:8051/RR
+#EXTINF:-1,Русское Радио (Иркутск)
+http://91.185.32.165:8988/RR
+#EXTINF:-1,Русское Радио (Йошкар-Ола)
+http://188.187.192.86:8000/RusRadio
+#EXTINF:-1,Русское Радио (Калининград)
+http://87.244.47.90:8000/RUS-KLGD
+#EXTINF:-1,Русское Радио (Калуга)
+http://online2.gkvr.ru:8000/rusradio_klg_64.aac
+#EXTINF:-1,Русское Радио (Каменск-Шахтинский)
+http://77.75.129.140:8000/stream
+#EXTINF:-1,Русское Радио (Кашира)
+http://control.craftradio.ru:8000/93_b14735d0
+#EXTINF:-1,Русское Радио (Кемерово)
+http://online-2.gkvr.ru:8000/rr_kem_64.aac
+#EXTINF:-1,Русское Радио (Керчь)
+https://radio.promedia.ru/rr-kerch
+#EXTINF:-1,Русское Радио (Киржач)
+http://77.244.74.133:1956/kirru
+#EXTINF:-1,Русское Радио (Кириши)
+http://79.173.124.23:1121/Ruskir
+#EXTINF:-1,Русское Радио (Коломна)
+http://77.244.74.133:1956/rrk
+#EXTINF:-1,Русское Радио (Комсомольск на-Амуре)
+http://ice.radiokoms.ru:8000/RR
+#EXTINF:-1,Русское Радио (Комсомольск на-Амуре) (2)
+http://194.186.209.2:8000/RR
+#EXTINF:-1,Русское Радио (Краснодар)
+http://185.105.171.227:8000/mp3
+#EXTINF:-1,Русское Радио (Краснотурьинск)
+http://node0.craftradio.ru:8000/115_B0B1AAC8
+#EXTINF:-1,Русское Радио (Курган)
+http://78.108.67.237:53800/stream
+#EXTINF:-1,Русское Радио (Лесной)
+http://lesnoy-life.ru:8000/RusRadio
+#EXTINF:-1,Русское Радио (Липецк)
+http://onair.lipetskfm.ru:8000/rusradio_lipetsk
+#EXTINF:-1,Русское Радио (Липецк) (2)
+http://onair.lipetskfm.ru:8000/rr_lipetsk_hi
+#EXTINF:-1,Русское Радио (Липецк) (3)
+http://onair.lipetskfm.ru:8000/rr_lipetsk_low
+#EXTINF:-1,Русское Радио (Махачкала)
+http://188.120.251.66:8008/dagestan-rr-1
+#EXTINF:-1,Русское Радио (Махачкала) (2)
+http://s0.radioheart.ru:8000/RH64691
+#EXTINF:-1,Русское Радио (Междуреченск)
+http://online2.gkvr.ru:8000/rusradio_mgd_64.aac
+#EXTINF:-1,Русское Радио (Можайск)
+http://77.244.74.133:1956/rrm
+#EXTINF:-1,Русское Радио (Нальчик)
+https://a9.radioheart.ru:9022/RH37504
+#EXTINF:-1,Русское Радио (Находка)
+https://mediavil.ru:8443/rr-n
+#EXTINF:-1,Русское Радио (Нефтеюганск)
+http://omnicomm1.alensio.net:8000/rus_aacp
+#EXTINF:-1,Русское Радио (Нефтеюганск) (2)
+http://omnicomm1.alensio.net:8000/106.1fm
+#EXTINF:-1,Русское Радио (Нижневартовск)
+https://radio.pnzradio.ru:8443/varta_rr_vps
+#EXTINF:-1,Русское Радио (Нижний Новгород)
+http://online-2.gkvr.ru:8000/rusradio_nno_64.aac
+#EXTINF:-1,Русское Радио (Новокузнецк)
+http://online-2.gkvr.ru:8000/rr_nkz_64.aac
+#EXTINF:-1,Русское Радио (Новосибирск)
+https://sv-veter.fvds.ru/rusradio_nsk_high
+#EXTINF:-1,Русское Радио (Новосибирск) (2)
+https://sv-veter.fvds.ru/rusradio_nsk_low
+#EXTINF:-1,Русское Радио (Обнинск)
+http://77.244.74.133:1956/rro
+#EXTINF:-1,Русское Радио (Озерск)
+http://drh-node-02.dline-media.com/rusradio
+#EXTINF:-1,Русское Радио (Омск)
+https://radio.pnzradio.ru:8443/rr_omsk_air
+#EXTINF:-1,Русское Радио (Орел)
+http://87.244.47.90:8000/orel-rus
+#EXTINF:-1,Русское Радио (Оренбург)
+http://radio.omg56.ru:8000/Russkoe_Oren
+#EXTINF:-1,Русское Радио (Оренбург) (2)
+http://radio.omg56.ru:8000/Russkoe_Oren64
+#EXTINF:-1,Русское Радио (Орехово-Зуево)
+http://77.244.74.133:1956/rr_oz
+#EXTINF:-1,Русское Радио (Орск)
+http://radio.omg56.ru:8000/Russkoe_Orsk
+#EXTINF:-1,Русское Радио (Павлово)
+http://s0.radioheart.ru:8000/RRadio
+#EXTINF:-1,Русское Радио (Пенза)
+https://radio.pnzradio.ru:8443/rr_penza_local
+#EXTINF:-1,Русское Радио (Пермь)
+http://46.146.243.43:8000/rr
+#EXTINF:-1,Русское Радио (Петропавловск-Камчатский)
+http://91.189.237.222:8000/russkoye.mp3
+#EXTINF:-1,Русское Радио (Приморско-Ахтарск)
+http://ahtarirtv.ru:8081/radio/rr/icecast.audio
+#EXTINF:-1,Русское Радио (Приморско-Ахтарск) (2)
+http://ahtarirtv.ru:8081/radio/rr/chunks.m3u8
+#EXTINF:-1,Русское Радио (Псков)
+http://91.237.148.11:5555/rus
+#EXTINF:-1,Русское Радио (Ростов на-Дону)
+http://online-2.gkvr.ru:8000/rusradio_rnd_64.aac
+#EXTINF:-1,Русское Радио (Рубцовск)
+http://178.248.87.50:8000/R-radio
+#EXTINF:-1,Русское Радио (С.Петербург)
+http://icecast227.ptspb.ru:8104/ruradio
+#EXTINF:-1,Русское Радио (Саранск)
+http://dfmsaransk.sv-veter.ru:8093/rr_saransk
+#EXTINF:-1,Русское Радио (Саратов)
+http://online2.gkvr.ru:8000/rusradio_srt_64.aac
+#EXTINF:-1,Русское Радио (Свободный)
+http://icecast01.msk.d-net.pro:8000/Russia-Svobodnyj-101.9-Russkoe_radio_Svobodnyj
+#EXTINF:-1,Русское Радио (Севастополь)
+https://radio.promedia.ru/rr-sev
+#EXTINF:-1,Русское Радио (Серпухов)
+http://77.73.89.70:4343/rrs0
+#EXTINF:-1,Русское Радио (Симферополь)
+https://radio.promedia.ru/rr-simf
+#EXTINF:-1,Русское Радио (Смоленск)
+http://92.241.103.200:8082/rr_sm
+#EXTINF:-1,Русское Радио (Советский)
+http://free.radioheart.ru:8000/RH60900
+#EXTINF:-1,Русское Радио (Сосновый Бор)
+http://79.173.124.23:1121/Russosna
+#EXTINF:-1,Русское Радио (Сочи)
+http://free.radioheart.ru:8000/RH37825
+#EXTINF:-1,Русское Радио (Спасск-Дальний)
+http://inhold.org:8000/rusradio-spassk-air
+#EXTINF:-1,Русское Радио (Ставрополь)
+http://193.107.103.61:1683/russkoe.mp3
+#EXTINF:-1,Русское Радио (Ставрополь) (2)
+https://hls.atvmedia.ru:1682/russkoe
+#EXTINF:-1,Русское Радио (Ставрополь) (3)
+http://rusradioreg.hostingradio.ru/stavropol.rusradio128.mp3
+#EXTINF:-1,Русское Радио (Судак)
+https://radio.promedia.ru/rr-sudak
+#EXTINF:-1,Русское Радио (Сызрань)
+http://listen3.myradio24.com:9000/rusradio
+#EXTINF:-1,Русское Радио (Сыктывкар)
+https://cast.severmedia.ru:5443/RR_11_01
+#EXTINF:-1,Русское Радио (Тавда)
+http://s0.radioheart.ru:8000/RH23882
+#EXTINF:-1,Русское Радио (Тавда) (2)
+http://node0.craftradio.ru:8000/169_98CF3ECA
+#EXTINF:-1,Русское Радио (Таганрог)
+https://radio.kinoneo.ru/rusradio
+#EXTINF:-1,Русское Радио (Тамбов)
+http://s07.radio-tochka.com:6585/;
+#EXTINF:-1,Русское Радио (Тарко-Сале)
+http://control.craftradio.ru:8000/78_e6e242e5
+#EXTINF:-1,Русское Радио (Тверь)
+http://radio.tp.tver.ru:8000/rr
+#EXTINF:-1,Русское Радио (Тобольск)
+http://node0.craftradio.ru:8000/165_FC1E4D2A
+#EXTINF:-1,Русское Радио (Тобольск) (2)
+http://control1.craftradio.ru:8000/154_f9549614
+#EXTINF:-1,Русское Радио (Тольятти)
+https://owa.people-fm.ru:8008/rr_63_04
+#EXTINF:-1,Русское Радио (Тольятти) (2)
+http://188.120.251.66:8008/tolyatti-rr-2
+#EXTINF:-1,Русское Радио (Томск)
+http://listen.radio.tomsk.ru:8000/russkoe
+#EXTINF:-1,Русское Радио (Туймазы)
+https://stream.delovaya-volna.ru/radio/PYCCKOE_TUIMAZY.MP3
+#EXTINF:-1,Русское Радио (Тула)
+http://87.244.47.90:8000/Rus
+#EXTINF:-1,Русское Радио (Тюмень)
+http://89.204.58.59:8000/rr_72_01
+#EXTINF:-1,Русское Радио (Улан-Удэ)
+https://stream.baikal-media.ru/rusradio-uu
+#EXTINF:-1,Русское Радио (Ульяновск)
+http://79.132.121.108:8000/rrulyanovsk
+#EXTINF:-1,Русское Радио (Ульяновск) (2)
+http://79.132.121.108:8000/rusradiomsk
+#EXTINF:-1,Русское Радио (Ульяновск) (3)
+http://79.132.121.108:8000/rrulya_efir
+#EXTINF:-1,Русское Радио (Уссурийск)
+http://inhold.org:8000/rusradio-ussuriysk-air
+#EXTINF:-1,Русское Радио (Усть-Илимск)
+http://193.33.233.109:8082/rr.ogg
+#EXTINF:-1,Русское Радио (Уфа)
+http://92.50.177.134:8000/rr_ufa
+#EXTINF:-1,Русское Радио (Феодосия)
+https://radio.promedia.ru/rr-feo
+#EXTINF:-1,Русское Радио (Ханты-Мансийск)
+http://188.225.36.159:8000/live
+#EXTINF:-1,Русское Радио (Чебоксары)
+http://online-2.gkvr.ru:8000/rusradio_chb_64.aac
+#EXTINF:-1,Русское Радио (Челябинск)
+http://online-2.gkvr.ru:8000/rusradio_che_64.aac
+#EXTINF:-1,Русское Радио (Череповец)
+http://95.182.123.24:8000/rr1021
+#EXTINF:-1,Русское Радио (Черкесск)
+http://83.239.117.66:8043/rusradio_kchr.mp3
+#EXTINF:-1,Русское Радио (Черкесск) (2)
+http://83.239.117.66:8043/rusradio_kchr.aac
+#EXTINF:-1,Русское Радио (Чита)
+http://a5.radioheart.ru:8007/RH64846
+#EXTINF:-1,Русское Радио (Чита) (2)
+http://s0.radioheart.ru:8000/RH78028
+#EXTINF:-1,Русское Радио (Шарья)
+http://radio.nmg-media.ru:8021/rrsharya
+#EXTINF:-1,Русское Радио (Ялта)
+https://radio.promedia.ru/rr-yalta
+#EXTINF:-1,Русское Радио (Ялуторовск)
+http://node0.craftradio.ru:8000/167_FA5293E8
+#EXTINF:-1,Русское Радио +2
+http://194.186.209.2:8000/RR_rezerv
+#EXTINF:-1,Русское Радио +2 (2)
+http://online2.gkvr.ru:8000/rr2.aac
+#EXTINF:-1,Русское Радио - Rock Fam
+http://rusradio.hostingradio.ru/rockfam96.aacp
+#EXTINF:-1,Русское Радио - Бессмертный Полк
+http://rusradio.hostingradio.ru/bessmertnyipolk96.aacp
+#EXTINF:-1,Русское Радио - Высоцкий
+http://rusradio.hostingradio.ru/vysockij96.aacp
+#EXTINF:-1,Русское Радио - Детский канал
+http://rusradio.hostingradio.ru/detskijkanal96.aacp
+#EXTINF:-1,Русское Радио - Звездатые 10е
+http://rusradio.hostingradio.ru/rr1096.aacp
+#EXTINF:-1,Русское Радио - Земляне
+http://rusradio.hostingradio.ru/zemlyane96.aacp
+#EXTINF:-1,Русское Радио - Зимнее Любимое
+http://rusradio.hostingradio.ru/zimlub96.aacp
+#EXTINF:-1,Русское Радио - Золотой Граммофон
+http://rusradio.hostingradio.ru/zolotoigrammofon96.aacp
+#EXTINF:-1,Русское Радио - Лихие 90е
+http://rusradio.hostingradio.ru/rr9096.aacp
+#EXTINF:-1,Русское Радио - Нерпа Юма:Сказки Байкала
+http://rusradio.hostingradio.ru/nerpa96.aacp
+#EXTINF:-1,Русское Радио - Родные Нулевые
+http://rusradio.hostingradio.ru/rr0096.aacp
+#EXTINF:-1,Русское Радио - Русские Каверы
+http://rusradio.hostingradio.ru/rrcovers96.aacp
+#EXTINF:-1,Русское Радио - Русский Рок
+http://rusradio.hostingradio.ru/russkijrok96.aacp
+#EXTINF:-1,Русское Радио - Русское Кино
+http://rusradio.hostingradio.ru/russkoekino96.aacp
+#EXTINF:-1,Русское Радио - Советская классика
+http://rusradio.hostingradio.ru/sovclass96.aacp
+#EXTINF:-1,Русское Радио - Соня
+http://rusradio.hostingradio.ru/sonya96.aacp
+#EXTINF:-1,Русское Радио - Твоя Москва
+http://rusradio.hostingradio.ru/rrmoscow96.aacp
+#EXTINF:-1,Русское Радио - Хайповые 20е
+http://rusradio.hostingradio.ru/rr2096.aacp
+#EXTINF:-1,Русское Радио Беларусь
+http://stream.rusradio.by:8000/live256
+#EXTINF:-1,Русское Радио Беларусь (128)
+http://stream.rusradio.by:8000/live128
+#EXTINF:-1,Русское Радио Ереван
+http://stream.radiovan.fm/radio/tracks-a1/mono.m3u8
+#EXTINF:-1,Русское Радио Казахстан
+http://rusradio.cdnqb.net/stream
+#EXTINF:-1,Русское Радио Кипр
+https://stream.veblot.net/proxy/russianradio/;
